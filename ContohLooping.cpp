@@ -61,5 +61,8 @@ int main()
     } while (n < 7);
     cout << "Jumlah perulangan = " << perulanganWhile << endl;
     cout << "Nilai n terakhir = " << n << endl;
+
+
+    
     
 }
